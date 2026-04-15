@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Whales in San Diego, US",
+  "export_job_id": "d0e00404-1636-4ac0-8604-97243ac8d6d8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 928952,
+  "location_name": "San Diego",
+  "location_type": "city",
+  "repo_name": "top-30-active-restaurant-whales-in-san-diego-us-sample-928952",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/928952/beamstation_928952_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 10.58,
+  "sample_records": 142,
+  "sample_sha256": "27303a6af7c44d52cba230391dd5df8a9ab661dad5701f9ea12a39b08a0a4dd0",
+  "sample_size_bytes": 606726,
+  "total_records": 1342,
+  "updated_at": "2026-04-07T17:21:33.210469+00:00"
+}
