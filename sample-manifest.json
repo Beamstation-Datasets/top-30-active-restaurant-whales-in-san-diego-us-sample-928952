@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d0e00404-1636-4ac0-8604-97243ac8d6d8",
+  "id_short": 928952,
+  "published_at": "2026-04-15T19:34:46Z",
+  "repo_name": "top-30-active-restaurant-whales-in-san-diego-us-sample-928952",
+  "sample_asset_name": "beamstation_928952_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/928952/beamstation_928952_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 142,
+  "sample_sha256": "27303a6af7c44d52cba230391dd5df8a9ab661dad5701f9ea12a39b08a0a4dd0",
+  "sample_size_bytes": 606726,
+  "total_records": 1342
+}
