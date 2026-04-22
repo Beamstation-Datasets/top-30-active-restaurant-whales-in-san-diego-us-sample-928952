@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in San Diego, US
 
-> Free BeamStation sample export with 142 rows and masked direct-contact fields.
+> Free BeamStation sample export with 137 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `928952` |
 | Location | San Diego |
 | Category | Restaurants |
-| Full dataset size | 1,422 records |
-| Free sample size | 142 records (9.99%) |
-| Last export | 2026-04-14T22:58:50.478503+00:00 |
+| Full dataset size | 1,373 records |
+| Free sample size | 137 records (9.98%) |
+| Last export | 2026-04-22T02:14:53.735784+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-san-diego-us-sample-928952/releases/download/sample-latest/beamstation_928952_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
